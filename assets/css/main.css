@@ -1670,12 +1670,8 @@ input, select, textarea {
 	font-family: "Abu Dhabi Pro.";
 }
 
-h1 {
-    font-family: 'Abu Dhabi Pro.', sans-serif;
-    font-weight: 400;
-}
 
-ul{
+body{
     font-family: 'Abu Dhabi Pro.', sans-serif;
     font-weight: 700;
 }
